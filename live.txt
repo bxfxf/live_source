@@ -195,7 +195,6 @@ CCTV14[1920*1080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3
 CCTV15[1920*1080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3u8
 CCTV16[1920*1080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3u8
 CCTV17[1920*1080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8
-CCTV4K[1920*1080],http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 中文欧洲[1920*1080],http://[2409:8087:1020:301:2026::2b]:80/wh7f454c46tw4202609999_893197627/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/10000100000000060000000000890997_0.smil/01.m3u8?fmt=ts2hls
 中文美洲[1920*1080],http://[2409:8087:1020:301:2026::18]:80/wh7f454c46tw4202898867_317667261/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/10000100000000060000000000890996_0.smil/01.m3u8?fmt=ts2hls
 CGTN英语[1920*1080],http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
@@ -218,7 +217,6 @@ CNC中文[1920*1080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/22
 女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-
 CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
 CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225762/index.m3u8
@@ -750,7 +748,6 @@ GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 GoodTV 健康煮流,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
 GoodTV 共享观点,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
 GoodTV 爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-
 
 
 少儿频道,#genre#
@@ -1292,9 +1289,3 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 韩国太妍29,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
 韩国太妍30,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
 
-
-使用声明,#genre#
-永久免费,http://tv.jthn.cn/hl/PLTV/88888888/22014235/16s.m3u
-谨防盗版,http://tv.jthn.cn/hl/PLTV/88888888/22014235/16s.m3u8
-严禁付费,http://tv.jthn.cn/hl/PLTV/88888888/22014235/16s.m3u8
-公众号:源享家,http://tv.jthn.cn/hl/PLTV/88888888/22014235/16s.m3u8
