@@ -857,7 +857,6 @@ CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 
 
 音乐舞蹈,#genre#
-Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
 Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
 SNH48剧场,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 SNH48剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432328
