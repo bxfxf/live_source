@@ -46,9 +46,6 @@ CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/in
 CCTV5,http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 
-五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-
 CCTV5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 CCTV5+,http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
 CCTV5+,http://39.135.138.58:18890/PLTV/88888888/224/3221225706/index.m3u8
@@ -111,11 +108,11 @@ CGTN纪实,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000
 CNC英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
 CNC中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
 中国教育1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
-中国教育4,http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8
 中国教育1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 中国教育2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 中国教育3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 中国教育4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+中国教育4,http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8
 第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
@@ -131,6 +128,8 @@ CNC中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/322122569
 电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 女神经典,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -148,11 +147,10 @@ SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/i
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 SiTV欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC家庭电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 中央新影发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 中央新影老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
 中国交通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226248/index.m3u8
 百事通体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
 百视通体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
